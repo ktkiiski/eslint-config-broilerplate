@@ -18,3 +18,6 @@
 
 # TypeScript configuration of this project
 tsconfig.json
+
+# Local ESLint configuration
+/.eslintrc.js
