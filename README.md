@@ -17,8 +17,8 @@ Configure your `.eslintrc` in your project:
 
 ```json
 {
-    "root": true,
-    "extends": "broilerplate"
+  "root": true,
+  "extends": "broilerplate"
 }
 ```
 

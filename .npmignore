@@ -15,3 +15,6 @@
 
 # GIT configuration
 .gitignore
+
+# TypeScript configuration of this project
+tsconfig.json
