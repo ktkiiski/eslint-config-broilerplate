@@ -1,3 +1,3 @@
-const { parserOptions, ...config } = require('./index');
+const { parserOptions, ...config } = require('./base');
 
 module.exports = config;

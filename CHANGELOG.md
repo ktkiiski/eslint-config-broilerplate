@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - **Breaking change:** This config is now for TypeScript only
+- **Breaking change:** React support is opt-in: use `broilerplate/react` instead of `broilerplate` to add React support
 - This config is now based on the following presets for simplified setup:
   - `eslint-config-airbnb`
   - `eslint-config-airbnb-typescript`
