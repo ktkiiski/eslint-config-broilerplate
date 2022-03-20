@@ -2,7 +2,7 @@ const baseConfig = require('./base');
 
 module.exports = {
   ...baseConfig,
-  extends: ['airbnb', 'airbnb-typescript', 'airbnb/hooks', 'prettier'],
+  extends: ['airbnb', 'airbnb-typescript', 'airbnb/hooks', 'prettier', 'plugin:react/jsx-runtime'],
   rules: {
     ...baseConfig.rules,
     // It's OK to use spreading with props
